@@ -29,7 +29,7 @@ ___
 
 ## Usage
 
-To view the report, clone this repo on GitHub using hte link provided. Open the `risk_return_analysis.ipynb` file in the Report directory using Jupyter Lab to view the results.
+To view the report, clone this repo on GitHub using hte link provided. Open the `risk_return_analysis.ipynb` file in the Report directory using Jupyter Lab to view the results. A csv file containing the data for the values of the portfolios over time can be viewed in the Resources folder.
 
 
 ## Contributors
